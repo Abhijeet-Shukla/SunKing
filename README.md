@@ -60,6 +60,11 @@ This is a **Spring Boot-based microservice** for managing **Orders and Inventory
 
 ---
 
+## Postman Collection 
+Located in resources\Order Management System.postman_collection.json
+
+---
+
 ## 📌 Scaling for Production
 
 To ensure high scalability and fault tolerance, consider the following:
