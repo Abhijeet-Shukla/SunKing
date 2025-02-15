@@ -121,13 +121,14 @@
 					"raw": "{\n    \"productId\": \"123e4567-e89b-12d3-a456-426614174000\",\n    \"quantity\": 2\n}"
 				},
 				"url": {
-					"raw": "http://localhost:8080/inventory/reduce",
+					"raw": "http://localhost:8080/api/inventory/reduce",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"port": "8080",
 					"path": [
+						"api",
 						"inventory",
 						"reduce"
 					]
